@@ -1,0 +1,2 @@
+# cscope
+cscope for windows
